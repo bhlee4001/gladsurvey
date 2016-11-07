@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GladSurvey</string>
+    <string name="survey_url">http://minspapa.iptime.org:8096/admin/ba/b2/0100/getQueRealPreviewPopupPage.do?QT_PROPERTY=A\u0026QT_CHECK=1\u0026QT_LANG=A\u0026QT_SEQ=2\u0026QT_DEVICE=3</string>
+    <string name="action_search">GladSurvey1</string>
+    <string name="action_settings">GladSurvey2</string>
+</resources>

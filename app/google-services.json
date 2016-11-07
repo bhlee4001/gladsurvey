@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524451208949",
+    "firebase_url": "https://gladsurvey-7ab69.firebaseio.com",
+    "project_id": "gladsurvey-7ab69",
+    "storage_bucket": "gladsurvey-7ab69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524451208949:android:561a868ca037c4a0",
+        "android_client_info": {
+          "package_name": "com.minspapa.gladsurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524451208949-pt7mp6v1ikh9mqa6a6n59itjrc6dqkmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBMzxjxT9ulORKqJe0AhjscIOy6C9xPJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_survey"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.minspapa.gladsurvey.SurveyActivity"
+    android:weightSum="1">
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        app:srcCompat="@drawable/header_full2"
+        android:scaleType="centerInside"
+        android:background="@color/colorPrimaryDark"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_weight="0.3" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="290dp"
+        app:srcCompat="@drawable/body2"
+        android:scaleType="fitXY"
+        android:background="@color/colorPrimaryDark"
+        android:layout_weight="0.7"/>
+
+
+</LinearLayout>
